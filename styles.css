@@ -64,3 +64,10 @@ body {
     margin-top: 50px;
 }
 
+.humidity-container {
+    margin-top: 25px;
+}
+
+.wind-container {
+    margin-top: 10px;
+}
