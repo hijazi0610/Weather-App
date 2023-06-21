@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Julius Sans One', sans-serif;
+    color: white;
 }
 
 body {
@@ -16,6 +18,11 @@ body {
     text-align: center;
     border-radius: 40px;
     padding: 50px;
+}
+
+h1, h1 {
+    font-weight: 900;
+    font-size: 50px;
 }
 
 .search {
@@ -56,6 +63,10 @@ body {
     width: 230px;
     height: 230px;
     margin-top: 40px;
+}
+
+.city {
+    margin-top: 10px;
 }
 
 .details {
